@@ -1,4 +1,4 @@
-# Meu Repositório Pessoal 🇧🇷 🇵🇹
+# Oi, sou o Rafael! 🇧🇷 🇵🇹
 
 Bem-vindo ao meu repositório pessoal! Aqui, você encontrará meus projetos e códigos relacionados ao meu aprendizado e desenvolvimento nas áreas de HTML, CSS e JavaScript. Embora eu tenha um repositório da escola, não coloco ele aqui por motivos óbvios de privacidade e segurança.
 
@@ -14,7 +14,7 @@ Estou sempre em busca de aprender mais e melhorar minhas habilidades. Este repos
 
 ---
 
-# My Personal Repository 🇺🇸 🇬🇧
+# Hi, I'm Rafael! 🇺🇸 🇬🇧
 
 Welcome to my personal repository! Here, you will find my projects and codes related to my learning and development in HTML, CSS, and JavaScript. Although I have a school repository, I do not place it here for obvious reasons of privacy and security.
 
